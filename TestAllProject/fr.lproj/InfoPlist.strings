@@ -1,0 +1,10 @@
+/* 
+  Info.strings
+  TestAllProject
+
+  Created by L on 15/8/20.
+  Copyright (c) 2015年 L. All rights reserved.
+*/
+
+CFBundleName = "bd法文";
+"CFBundleDisplayName" = "dis法文";
